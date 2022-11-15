@@ -2,4 +2,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.team.custlibrary">
 
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <meta-data
+        android:name="applovin.sdk.key"
+        android:value="HTKHKIx8MKfBcLPUtKW7s0K4HhQX6TUmube1mSwSSJwKz5VWc17F_8WXBrXSfEXT0Ag04VTmBH1nq69eLs0saD"/>
+    <meta-data
+        android:name="com.google.android.gms.ads.APPLICATION_ID"
+        android:value="ca-app-pub-4029489880455805~8195068379" />
 </manifest>

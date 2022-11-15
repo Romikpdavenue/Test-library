@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#041E3F</color>
+<!--    <color name="colorPrimary">#FF0000</color>-->
+    <color name="colorPrimaryDark">#041E3F</color>
+<!--    <color name="colorPrimaryDark">#FF0000</color>-->
+<!--    <color name="colorAccent">#FF0000</color>-->
+    <color name="colorAccent">#041E3F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="offwhite">#B7EBEAEA</color>
+    <color name="path_orange">#FF9500</color>
+    <color name="blacklight">#AD000000</color>
+    <color name="black">#000000</color>
+    <color name="orange">#F8560A</color>
+    <color name="red">#C61D24</color>
+    <color name="pink">#F60868</color>
+    <color name="divider">#DAA8A7A7</color>
+    <color name="divider1">#BEBBB8B8</color>
+    <color name="divider2">#AEDCDBDB</color>
+    <color name="viewcolor">#e9bdbdbe</color>
+    <color name="yellow">#f2c03d</color>
+    <color name="greay">#7E7F80</color>
+    <color name="desColor">#7E7F80</color>
+    <color name="green">#1D9E10</color>
+    <color name="darkGreen">#144E13</color>
+    <color name="bg">#ECEDEF</color>
+    <color name="divider3">#F5F5F5</color>
+    <color name="label">#F7030A</color>
+    <color name="tabText">#9E9D9D</color>
+    <color name="gray_scale">#8affffff</color>
+    <color name="bgRedeem">#9E0BC3FF</color>
+    <color name="bgDrawer">#FEFFEF</color>
+</resources>
